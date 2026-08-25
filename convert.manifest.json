@@ -1,12 +1,12 @@
 {
-  "converted_at_secs": 1787638165,
+  "converted_at_secs": 1787639146,
   "files": {
     "src/app/en-US/academy/a-brief-overview-of-thermal-stress-in-resin-3d-printing/page.mdx": {
       "source_sha256": "a3d6259109dfbbdd4fd5b3d40cf34864c011acfff10a4c35feb8122673f4894e",
       "source_mtime_secs": 1787020131,
       "source_size": 9753,
-      "output_path": "src/app/en-US/academy/a-brief-overview-of-thermal-stress-in-resin-3d-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/a-brief-overview-of-thermal-stress-in-resin-3d-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/a-brief-overview-of-thermal-stress-in-resin-3d-printing/basic-equations-of-thermal-elasticity.png": {
           "source_sha256": "6a71f6174284f083195c9ae1ac2f47ef4440b69b5d88b6aa60c24f6fd4899cce",
@@ -28,8 +28,8 @@
       "source_sha256": "2d6eb146ef6090ae64b5ad06e49e3d20202b3b3a91c12dab34f2acf36798c1e1",
       "source_mtime_secs": 1787020131,
       "source_size": 12603,
-      "output_path": "src/app/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/interconnected-supports-and-individual-supports.png": {
           "source_sha256": "721d1b4e3453036f5bbb070e033960b392859ac4419f21fc225029c9e219ff12",
@@ -79,8 +79,8 @@
       "source_sha256": "bf7adddd2f3fd53b549963a2bc44144c2f50eccfce5c93dacd138b57d90bad17",
       "source_mtime_secs": 1787020131,
       "source_size": 10055,
-      "output_path": "src/app/en-US/academy/a-detailed-analysis-of-the-factors-affecting-printing-accuracy/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/a-detailed-analysis-of-the-factors-affecting-printing-accuracy.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/a-detailed-analysis-of-the-factors-affecting-printing-accuracy/dlp-imaging-principle.png": {
           "source_sha256": "d564ece7c961f7086cebee8e2ab0045f624965708fddbbdc9857d50eaf00fda4",
@@ -116,8 +116,8 @@
       "source_sha256": "d59a91960833dce2bcc67ec9c0607a39ba80711657d04fe26f52f8318de66f3a",
       "source_mtime_secs": 1787020131,
       "source_size": 14363,
-      "output_path": "src/app/en-US/academy/all-you-need-to-know-about-failed-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/all-you-need-to-know-about-failed-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/a-fep-film-with-cured-small-debris.jpg": {
           "source_sha256": "28639e15345afcb2bde10df0266955b55921e43772d81b57053fc6b045c18188",
@@ -251,8 +251,8 @@
       "source_sha256": "f38dce1e58eeb2a0471cc19a9cb0122ec27a97a8e28301ed65cf229774d81525",
       "source_mtime_secs": 1787020131,
       "source_size": 7122,
-      "output_path": "src/app/en-US/academy/bottom-curling-and-detachment/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/bottom-curling-and-detachment.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/bottom-curling-and-detachment/motion-params.png": {
           "source_sha256": "eb9924f18247b0ad9b0cbc9c1e1cb77b24d4682a0699482be7b7f2ec2b8091e9",
@@ -288,8 +288,8 @@
       "source_sha256": "46c7d68ae366cbd955907bb849e82c4fcbb4ca8600d8b5b6ff82629a0e36ed45",
       "source_mtime_secs": 1787020131,
       "source_size": 5348,
-      "output_path": "src/app/en-US/academy/effects-of-contact-shape-on-model-surface-quality/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/effects-of-contact-shape-on-model-surface-quality.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/effects-of-contact-shape-on-model-surface-quality/electric-sanding-pen.png": {
           "source_sha256": "45ea7d27bb863556f168cbb7b89e7a618b00346ef64168f356c820205a94f2ba",
@@ -325,8 +325,8 @@
       "source_sha256": "c76db2ee5ee0ff9706dc51f7349af44209232e45520af7cb626808b24d2a918a",
       "source_mtime_secs": 1787219605,
       "source_size": 3822,
-      "output_path": "src/app/en-US/academy/effects-of-layer-height-on-sladlplcd-3d-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/effects-of-layer-height-on-sladlplcd-3d-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/effects-of-layer-height-on-sladlplcd-3d-printing/a-cylinder-with-layer-height-of-02mm.jpg": {
           "source_sha256": "879845124e9a23c17dd36113e303ea35ed9879cf1a4f549003c1c1cff4fc42c1",
@@ -355,8 +355,8 @@
       "source_sha256": "aa22fcdc9043cb43259f53b6b386038d6756fec67d6bc328e8fcd4f104ed5162",
       "source_mtime_secs": 1787020131,
       "source_size": 2988,
-      "output_path": "src/app/en-US/academy/hollowed-part-being-broken-after-a-period-of-time/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/hollowed-part-being-broken-after-a-period-of-time.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/hollowed-part-being-broken-after-a-period-of-time/a-broken-hollow-model.jpg": {
           "source_sha256": "5c266c8444c0bef204fde26052d672929530cf7c3b914d656c0e9c865b1b7008",
@@ -385,8 +385,8 @@
       "source_sha256": "4beed184aa79d0d60a4e8628944cf043cf9ce8726981a053ee8243599f59aab1",
       "source_mtime_secs": 1787020131,
       "source_size": 4497,
-      "output_path": "src/app/en-US/academy/how-airtight-chamber-affect-prints/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/how-airtight-chamber-affect-prints.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/how-airtight-chamber-affect-prints/airtight-chamber-withoutwith-a-hole-01.gif": {
           "source_sha256": "8ece33eb0d2d7f6dfd931dc35d412488d0f046c9418e933a752ac70a5da4497f",
@@ -408,8 +408,8 @@
       "source_sha256": "2a10f46ad0713057edb5b0757a799729b6a443fadaa71ff9de5577de2fc3d338",
       "source_mtime_secs": 1787020131,
       "source_size": 9046,
-      "output_path": "src/app/en-US/academy/how-angles-of-models-affect-surface-quality/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/how-angles-of-models-affect-surface-quality.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/add-supports-when-printing-the-model-horizontally.png": {
           "source_sha256": "4a5d183c64fd857a60b22cc9c4aac7e6ac1d50defeb4313fb1c4e2a089c705e4",
@@ -473,8 +473,8 @@
       "source_sha256": "a0452a1c0e3aae0891e2fcf6aaf1ebc4f47fcba26300780e4e2f56193dd21690",
       "source_mtime_secs": 1787020131,
       "source_size": 9371,
-      "output_path": "src/app/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/3-selection-modes.png": {
           "source_sha256": "fad5ec78e04568fa915a27cd4ba6cb474dfc9857e5910cfbe79badcd06945b42",
@@ -566,8 +566,8 @@
       "source_sha256": "4f4d077ae4a83eff34fc0773bb8713968a6797116f97aace1051a2cf9db5d9a4",
       "source_mtime_secs": 1787020131,
       "source_size": 3142,
-      "output_path": "src/app/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/hold-the-build-plate-and-loosen-the-leveling-screws.gif": {
           "source_sha256": "2232b1deaf46669c3eaea3dee0778dd5e1fc4a6731de47c5b4fae060d0875e31",
@@ -617,8 +617,8 @@
       "source_sha256": "109dfb4595d32ecfb68ef2f81afe002aee73d632f2083e38481177f79b8fbb21",
       "source_mtime_secs": 1787020131,
       "source_size": 5760,
-      "output_path": "src/app/en-US/academy/how-to-save-resin-in-sladlplcd-3d-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/how-to-save-resin-in-sladlplcd-3d-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/how-to-save-resin-in-sladlplcd-3d-printing/hollowed-model.png": {
           "source_sha256": "a50c2f2f13ce56d66335e30cec205c66f291fd30af153eb0281526c8a58bdbda",
@@ -668,8 +668,8 @@
       "source_sha256": "480548efb8b136522dd1741cf6d904bda5dde76c4b3e2a2d145be2aa5ce4c68f",
       "source_mtime_secs": 1787020131,
       "source_size": 4559,
-      "output_path": "src/app/en-US/academy/how-to-strengthen-3d-printed-parts-in-sladlplcd/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/how-to-strengthen-3d-printed-parts-in-sladlplcd.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/how-to-strengthen-3d-printed-parts-in-sladlplcd/15-infill-density.jpg": {
           "source_sha256": "a7d35c34360986a6cd725298d19d148c61b57765be5ffa1c08296d85dd08e2ec",
@@ -705,8 +705,8 @@
       "source_sha256": "85cf6a7ce286956a3074703589003f5cc090bcc9f7d43b701d2492d1d7f1e24e",
       "source_mtime_secs": 1787020131,
       "source_size": 12816,
-      "output_path": "src/app/en-US/academy/obtain-the-parameters-of-photosensitive-resin-in-sladlplcd-3d-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/obtain-the-parameters-of-photosensitive-resin-in-sladlplcd-3d-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/obtain-the-parameters-of-photosensitive-resin-in-sladlplcd-3d-printing/perpendicularity-and-roundness.png": {
           "source_sha256": "06188e33b36a691c2ced5c6ef66437c88aac5517c4111db3b012cf84d4b164b2",
@@ -812,8 +812,8 @@
       "source_sha256": "49d5553cda8f960abb842bdfedbd027963c7ad7425d109bb5fda3971a9de5754",
       "source_mtime_secs": 1787020131,
       "source_size": 8254,
-      "output_path": "src/app/en-US/academy/overhang-and-island-detection-in-sla-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/overhang-and-island-detection-in-sla-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/overhang-and-island-detection-in-sla-printing/island-detection-example.gif": {
           "source_sha256": "45c7f3cb468cd8cbde0c223297bcb0f2a55e3cfc99542f48678caa03a977288c",
@@ -863,8 +863,8 @@
       "source_sha256": "81041278eb3c9ed961cba9771c6d568ab025557b3d67bed95c2e5fc595d14e8a",
       "source_mtime_secs": 1787020131,
       "source_size": 6980,
-      "output_path": "src/app/en-US/academy/settings-to-improve-your-sladlplcd-3d-print-quality/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/settings-to-improve-your-sladlplcd-3d-print-quality.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/settings-to-improve-your-sladlplcd-3d-print-quality/different-orientations.png": {
           "source_sha256": "15bf0e4ee90fc255a10f14fb3b018a30e2f8a8fd483dc665110646fb093dd6ed",
@@ -907,8 +907,8 @@
       "source_sha256": "0f82501e6410bd8d20bd758e38edcba0dd2e22ba64a6c9cf99d5f2e9b5f387e0",
       "source_mtime_secs": 1787020131,
       "source_size": 5023,
-      "output_path": "src/app/en-US/academy/storage-and-curing-of-photopolymer-resin/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/storage-and-curing-of-photopolymer-resin.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/storage-and-curing-of-photopolymer-resin/cure-underwater.png": {
           "source_sha256": "e2160f603efd254597c20da3ac8ed6b33c2415df71492a5c5c30e8dea53e359f",
@@ -937,16 +937,16 @@
       "source_sha256": "c271f0662e098b7b12c5876d70c9cad8d3f15d73649f0aec61be78a984c70b2c",
       "source_mtime_secs": 1787020131,
       "source_size": 13418,
-      "output_path": "src/app/en-US/academy/stress-and-strain-properties-of-3d-printing-resin/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/stress-and-strain-properties-of-3d-printing-resin.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/academy/the-factors-to-affect-the-print-speed-of-a-resin-3d-printer/page.mdx": {
       "source_sha256": "3138f7d9838973b926d93181fbbf9194c6b58f56896c3a754d737619a9a647ce",
       "source_mtime_secs": 1787020131,
       "source_size": 5624,
-      "output_path": "src/app/en-US/academy/the-factors-to-affect-the-print-speed-of-a-resin-3d-printer/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/the-factors-to-affect-the-print-speed-of-a-resin-3d-printer.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/the-factors-to-affect-the-print-speed-of-a-resin-3d-printer/different-orientations.png": {
           "source_sha256": "d9e6b2ae5ac2519574a3a656ee82664bda4551e3d3857d23b9b15e194fc28ca0",
@@ -989,8 +989,8 @@
       "source_sha256": "9efef7e97cbe390513eaee0bd945e6c6bc040bc9ca95caabe05a6329dbee44e8",
       "source_mtime_secs": 1787020131,
       "source_size": 10801,
-      "output_path": "src/app/en-US/academy/tools-to-remove-support-structures-and-rinse-3d-object-in-resin-sladlplcd-3d-printing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/tools-to-remove-support-structures-and-rinse-3d-object-in-resin-sladlplcd-3d-printing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/tools-to-remove-support-structures-and-rinse-3d-object-in-resin-sladlplcd-3d-printing/banister-brush.png": {
           "source_sha256": "e1e1ea5ecec5556dd44e72459f37b98dc55c22e0d6c928aebc2c96f9dccbafbc",
@@ -1124,8 +1124,8 @@
       "source_sha256": "854ebd0f22ebee43ceeb5ab96cc37a02b460d59a9177eff3675ed5ca16859da5",
       "source_mtime_secs": 1787020131,
       "source_size": 7131,
-      "output_path": "src/app/en-US/academy/verification-of-the-effect-of-light-source-intensity-on-printing-accuracy/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/academy/verification-of-the-effect-of-light-source-intensity-on-printing-accuracy.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/academy/verification-of-the-effect-of-light-source-intensity-on-printing-accuracy/100µm-spacing.png": {
           "source_sha256": "6a2c597f165b67bf338be85d0b895a23c104b62d135fe064e6ab0a7d5d579257",
@@ -1217,8 +1217,8 @@
       "source_sha256": "d6b901c9eaa69d2aa32f14625f2331d50814530ed55565aaa9c683d1f5ef7905",
       "source_mtime_secs": 1787020131,
       "source_size": 2802,
-      "output_path": "src/app/en-US/chitu-manager/latest/introduction/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitu-manager/latest/introduction.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitu-manager/001-installation-windows-step1.png": {
           "source_sha256": "82dd9bc11d2fd82e699092e6a5625a95a969ed0447f8132f11cb6479442162ea",
@@ -1261,8 +1261,8 @@
       "source_sha256": "cd9f052c78befa1b6975088c93614f145b0c6b419f4818923c0dda89851d08db",
       "source_mtime_secs": 1787020131,
       "source_size": 2353,
-      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/management/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/management.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitu-manager/002-add-printers-add-printers.png": {
           "source_sha256": "7f823fd3021b43d8a836ed3f1cba2fb8f645b996e1cb0cee3c714da99c11b348",
@@ -1291,8 +1291,8 @@
       "source_sha256": "137d67ddf4ca0e074e2bae38f6b9c8c5f8691a6b1db55d290f1737b6a12bde97",
       "source_mtime_secs": 1787020131,
       "source_size": 3291,
-      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/network-sending/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/network-sending.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitu-manager/Chitumanager-en-01.png": {
           "source_sha256": "cb5ccf6d391940c1c88355b8b923f32bba56afe88b2e79e7d2e3ece07f74cde1",
@@ -1363,8 +1363,8 @@
       "source_sha256": "59c5ad851f92c3bc4368b52df336d534011a2196c131a7f25e88427b51b44447",
       "source_mtime_secs": 1787020131,
       "source_size": 2813,
-      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/operations/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/operations.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitu-manager/004-operations-historical-records.png": {
           "source_sha256": "7972abeee3d716f1e92f3f168003eac3e66a2979412908411ba5bc744d3a4011",
@@ -1394,15 +1394,15 @@
       "source_mtime_secs": 1787020131,
       "source_size": 409,
       "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitu-manager/latest/ui-and-features/printer-list/page.mdx": {
       "source_sha256": "ff49af9c20888e00417d3a144e630d986fa3d1784afd41908bb4bb51e3afe247",
       "source_mtime_secs": 1787020131,
       "source_size": 2450,
-      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/printer-list/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitu-manager/latest/ui-and-features/printer-list.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitu-manager/003-printer-list-main-printer.png": {
           "source_sha256": "c5370c2927b768cbd9fca36a18ba678b64f1e4a0ec8785b477ae553abb328454",
@@ -1425,15 +1425,15 @@
       "source_mtime_secs": 1787020131,
       "source_size": 350,
       "output_path": "src/app/en-US/chitubox-printing-test/latest/analysis/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox-printing-test/latest/analysis/printing-preparation/page.mdx": {
       "source_sha256": "7bb3844644e42734e1131ff30c9cc94e5f92f3f9628034c0bda2efc0bd0d1071",
       "source_mtime_secs": 1787020131,
       "source_size": 21004,
-      "output_path": "src/app/en-US/chitubox-printing-test/latest/analysis/printing-preparation/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox-printing-test/latest/analysis/printing-preparation.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-advanced_001.png": {
           "source_sha256": "c459295e74059b33c6481514b3da44df013ea37cd6ae97933e77b4e12d0f3eb8",
@@ -1686,8 +1686,8 @@
       "source_sha256": "e85d2f49be368b1054ab2976b0864a6c5086eb7ad24ec3865fe90f1a2b8561cc",
       "source_mtime_secs": 1787020131,
       "source_size": 57634,
-      "output_path": "src/app/en-US/chitubox-printing-test/latest/analysis/result-assessment/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox-printing-test/latest/analysis/result-assessment.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_001.png": {
           "source_sha256": "7b139e55ce370f7e58f2e62d80f49acf03445d37137248aaa6260bd949352b5a",
@@ -2850,8 +2850,8 @@
       "source_sha256": "6416ddd15598a41fa4f6e34536b822e94f581ee7689395658a8933382cd5adb5",
       "source_mtime_secs": 1787020131,
       "source_size": 12875,
-      "output_path": "src/app/en-US/chitubox-printing-test/latest/overview-of-the-standard-model/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox-printing-test/latest/overview-of-the-standard-model.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/CHITUBOX Base_TMB_V1.png": {
           "source_sha256": "c57d5e60dd0939c4aee910bd22cb26389f0530e12f4012af71987bb58f189384",
@@ -2908,8 +2908,8 @@
       "source_sha256": "4739fd2ce604ff92444f167916036837d9876814120bd69fc71cfa234bfe6d9d",
       "source_mtime_secs": 1787020131,
       "source_size": 28507,
-      "output_path": "src/app/en-US/chitubox-printing-test/latest/test-preparation/data-recording/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox-printing-test/latest/test-preparation/data-recording.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/front-of-printer.svg": {
           "source_sha256": "6e4789db52d2ddc637f3a40976606ea1913c05c7f1da54c6370c2ec44d980f61",
@@ -2924,8 +2924,8 @@
       "source_sha256": "1fba0a5ecead3675dda507b9b0c5ab3338331b19aefcf72edb2e4fa49b25ea39",
       "source_mtime_secs": 1787020131,
       "source_size": 1547,
-      "output_path": "src/app/en-US/chitubox-printing-test/latest/test-preparation/model-printing-and-post-print-processing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox-printing-test/latest/test-preparation/model-printing-and-post-print-processing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox-printing-test/latest/test-preparation/page.mdx": {
@@ -2933,15 +2933,15 @@
       "source_mtime_secs": 1787020131,
       "source_size": 451,
       "output_path": "src/app/en-US/chitubox-printing-test/latest/test-preparation/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox-printing-test/latest/test-preparation/printing-preparation-conditions/page.mdx": {
       "source_sha256": "c2b08dfb3bb4b75882862b0aca43f3158d4e44420c6570f847fbea23936edce9",
       "source_mtime_secs": 1787020131,
       "source_size": 11219,
-      "output_path": "src/app/en-US/chitubox-printing-test/latest/test-preparation/printing-preparation-conditions/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox-printing-test/latest/test-preparation/printing-preparation-conditions.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/front-of-printer.svg": {
           "source_sha256": "6e4789db52d2ddc637f3a40976606ea1913c05c7f1da54c6370c2ec44d980f61",
@@ -2963,24 +2963,24 @@
       "source_sha256": "7212d4d5b120fb8803378c8bf030f2f70917c97d1213bfcf60686e13e56e16e4",
       "source_mtime_secs": 1787020131,
       "source_size": 1487,
-      "output_path": "src/app/en-US/chitubox/latest/chitu-action/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/chitu-action.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/chitu-hive/page.mdx": {
       "source_sha256": "1f71a604524b3d7f2df405a238e66ce8696fca53cb164e2cadcfe2ac7e68e1ce",
       "source_mtime_secs": 1787020131,
       "source_size": 1905,
-      "output_path": "src/app/en-US/chitubox/latest/chitu-hive/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/chitu-hive.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/chituglyph/page.mdx": {
       "source_sha256": "05367f1deaaba67d4182309bb4792d8e68a7951cfa64393a99679fbc6c93f60e",
       "source_mtime_secs": 1787020131,
       "source_size": 2516,
-      "output_path": "src/app/en-US/chitubox/latest/chituglyph/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/chituglyph.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox/latest/chituglygh/entry_us.png": {
           "source_sha256": "37f3dc6f1a7d7135732d4ab4e96aabe5bb7f82e98a9b4e78a9ae93bf9d489d24",
@@ -3016,8 +3016,8 @@
       "source_sha256": "a5e6918f51ceb17414a4c8bbbeb269e2ece0cfe5c9ef843c43c4fd645a1804ae",
       "source_mtime_secs": 1787020131,
       "source_size": 17367,
-      "output_path": "src/app/en-US/chitubox/latest/configure-print-settings/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/configure-print-settings.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox-pro/2.x.x/014-slice-settings-hub-and-spoke.png": {
           "source_sha256": "874e7f952bbf60ebb54e514afd8ae6af00fde29c2c76b26d0af1013ce280b20a",
@@ -3053,8 +3053,8 @@
       "source_sha256": "9798c574d5e797544bf67381c8c17af59f655f89b31ff3641c866f18f72e4d65",
       "source_mtime_secs": 1787020131,
       "source_size": 1144,
-      "output_path": "src/app/en-US/chitubox/latest/data-migration/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/data-migration.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox/latest/data-migration/dm_us.png": {
           "source_sha256": "8e74d4115541503b8b4cf6580ef72407bb783ee1dc539c7fcb8ad20fba41fff6",
@@ -3076,8 +3076,8 @@
       "source_sha256": "121e4658e8465e560c4a1f9af1cfa36dae0008db78ac39cb893faf696789c460",
       "source_mtime_secs": 1787020131,
       "source_size": 2881,
-      "output_path": "src/app/en-US/chitubox/latest/dental/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/dental.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox/latest/dental/buju_us.png": {
           "source_sha256": "1a0653b52be67c207ae92eaf7668344726507e924c9bb5ea0c8703af2dfc71a7",
@@ -3127,32 +3127,32 @@
       "source_sha256": "a6e735d17fe7bc80715f0023acc2da14588267173f50fe6280dbd28fd06ce889",
       "source_mtime_secs": 1787020131,
       "source_size": 714,
-      "output_path": "src/app/en-US/chitubox/latest/developer-reference/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/developer-reference.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/export/page.mdx": {
       "source_sha256": "95d26fdfcf1cb6cc6333fc2b60f80f006cda068ffd526dd13a80b66047f09383",
       "source_mtime_secs": 1787020131,
       "source_size": 2081,
-      "output_path": "src/app/en-US/chitubox/latest/export/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/export.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/hide-and-exclude-models/page.mdx": {
       "source_sha256": "0167f8cf0b06a0ecf183685ffbd447f3c18857386a4fae4b0543c41265561381",
       "source_mtime_secs": 1787020131,
       "source_size": 1252,
-      "output_path": "src/app/en-US/chitubox/latest/hide-and-exclude-models/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/hide-and-exclude-models.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/installation/page.mdx": {
       "source_sha256": "057ff12100394130adf36eea3b6a093af8c014bbce351314b8071e5412ccd9e8",
       "source_mtime_secs": 1787020131,
       "source_size": 765,
-      "output_path": "src/app/en-US/chitubox/latest/installation/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/installation.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/introduction/page.mdx": {
@@ -3160,15 +3160,15 @@
       "source_mtime_secs": 1787020131,
       "source_size": 3366,
       "output_path": "src/app/en-US/chitubox/latest/introduction/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/license-management/page.mdx": {
       "source_sha256": "f6e045526d52a6ef5aa154aa2511a9d6198950c4e840fd329ca8810aaa7a7a30",
       "source_mtime_secs": 1787020131,
       "source_size": 2353,
-      "output_path": "src/app/en-US/chitubox/latest/license-management/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/license-management.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox/1.x.x/device-management.png": {
           "source_sha256": "e69a2f79467636a3b9e1373a0ec481599b4b701590a46e6fc5021d2efe564295",
@@ -3211,16 +3211,16 @@
       "source_sha256": "11e27f3f58ea186bafb948551d3dc1c9dc30910ba4d9d35365e63e6eeb55cc72",
       "source_mtime_secs": 1787020131,
       "source_size": 979,
-      "output_path": "src/app/en-US/chitubox/latest/measurement/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/measurement.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/model-editing/page.mdx": {
       "source_sha256": "f765b0f591dc322e6bad7be78e178415115ac6dbca9f9901bf9aa183f5a53b96",
       "source_mtime_secs": 1787020131,
       "source_size": 7650,
-      "output_path": "src/app/en-US/chitubox/latest/model-editing/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/model-editing.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox/1.x.x/model-editing-000.png": {
           "source_sha256": "4d1def93b14cc7a5b7a8db958168fee166a1e066914524243847d7f114d37a8e",
@@ -3249,32 +3249,32 @@
       "source_sha256": "1a072143f8b22bc15740737fb200db8f29bac52a18d2c1315ca8ffcc5331661f",
       "source_mtime_secs": 1787020131,
       "source_size": 1336,
-      "output_path": "src/app/en-US/chitubox/latest/multi-platform/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/multi-platform.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/orientation-and-layout/page.mdx": {
       "source_sha256": "f2250d50de0d374ea741ec7f0518faed809ea9c65eed2cfb57f6e44ee8ddfdb9",
       "source_mtime_secs": 1787020131,
       "source_size": 1769,
-      "output_path": "src/app/en-US/chitubox/latest/orientation-and-layout/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/orientation-and-layout.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/printer-management/page.mdx": {
       "source_sha256": "a38f0d36e776a166971778a5efeea234604a86b8939ff325201f755ce455b56a",
       "source_mtime_secs": 1787020131,
       "source_size": 1338,
-      "output_path": "src/app/en-US/chitubox/latest/printer-management/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/printer-management.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/quick-start/page.mdx": {
       "source_sha256": "83cd9fdd5188627781e0ae5564ae6c661a03a80ae3f6420b92d74d7a972436c8",
       "source_mtime_secs": 1787020131,
       "source_size": 4405,
-      "output_path": "src/app/en-US/chitubox/latest/quick-start/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/quick-start.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox/1.x.x/quick-start-000.png": {
           "source_sha256": "6bcc83ca58b488d459a1716a7f6d31c5fb6764f059637f638ab94aa9ed8adf73",
@@ -3303,40 +3303,40 @@
       "source_sha256": "7f99f63c5e8e15288a95636a9d22b2d8916555f05507f0b84b8c8138dfa343e1",
       "source_mtime_secs": 1787020131,
       "source_size": 3127,
-      "output_path": "src/app/en-US/chitubox/latest/repair/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/repair.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/resin-material-alliance/page.mdx": {
       "source_sha256": "fe7e38fde216b3127160ef63051bab2e97e68fb5d9c3d5b45ec47113a6c0197b",
       "source_mtime_secs": 1787020131,
       "source_size": 977,
-      "output_path": "src/app/en-US/chitubox/latest/resin-material-alliance/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/resin-material-alliance.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/risk-detection/page.mdx": {
       "source_sha256": "fc956693850eb1e354a4ccf0e07a0766013eac8e9eec487c1ed364855ae1851a",
       "source_mtime_secs": 1787020131,
       "source_size": 2551,
-      "output_path": "src/app/en-US/chitubox/latest/risk-detection/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/risk-detection.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/support-your-model/page.mdx": {
       "source_sha256": "1db4c58e381fb43a2832aeac25378cd979d756c1dfc76544d8974bab9139daa0",
       "source_mtime_secs": 1787020131,
       "source_size": 10661,
-      "output_path": "src/app/en-US/chitubox/latest/support-your-model/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/support-your-model.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     },
     "src/app/en-US/chitubox/latest/true-proportion-scene/page.mdx": {
       "source_sha256": "89f3e2d0b99d79db49742d40634c20fb663f78ba20aec9e59ef2c7bd57ce3f8c",
       "source_mtime_secs": 1787020131,
       "source_size": 888,
-      "output_path": "src/app/en-US/chitubox/latest/true-proportion-scene/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/chitubox/latest/true-proportion-scene.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {
         "public/images/docs/en-US/chitubox/1.x.x/visual-control-000.jpg": {
           "source_sha256": "ba8df5dcbc3ea4e4d931f7884a930c686fa19afce221109f56cafad92bc8cf97",
@@ -3351,8 +3351,8 @@
       "source_sha256": "a036a533af2d7b8080d136c0205c834c282a38603ed5801e7a9f2a94251401ba",
       "source_mtime_secs": 1787020131,
       "source_size": 2733,
-      "output_path": "src/app/en-US/faq/latest/chitu-manager-faq/page.md",
-      "transform_options_hash": "6c4305a0f06bc2bc5ec02aa63058fa56f6ac7eda373afb4d14a0ca859d4ab123",
+      "output_path": "src/app/en-US/faq/latest/chitu-manager-faq.md",
+      "transform_options_hash": "be71171d30d3dbefd6800b21ee3bf23e4f0cfe1f552c29522641b060e40aa8c7",
       "images": {}
     }
   }

@@ -1,0 +1,89 @@
+# How to Do Basic Fixes to Your Models Using Blender?
+
+CHITUBOX and some other popular 3D software provide the auxiliary automatic model repair tool, which can be handy when dealing with issues like partially inverted normals, small scale fragments missing, etc.
+
+But when it comes to more complex situations, computers can't guess what your purpose is when you try to fix a broken model. There could be millions of possible fixing schemes that computers can't decide for you. Well, maybe they could in the future, powered by AI, but apparently not now.
+
+So the thing we're gonna talk about is if most current software can't provide automatic model repairing to meet your need, what else you can do to rescue your model? Fortunately, if your model wasn't fragmentized too much or too complex, you still have chances to fix the model by yourself using Blender, a powerful open-source 3D modeling software in case you haven't heard of it.
+
+By the time of writing this article, the latest version of Blender is 2.93.3, so we will be using this version for the explanation.
+
+We will cover two commonly seen issues of models you may download from 3D model websites like MyMiniFactory, Thingiverse, etc.
+
+Not all 3D models are suitable for 3D printing. Some of them may be designed for CG animation or commercial advertising, so they may not have to be strictly enclosed structures. But when it comes to 3D printing, things change. All structures must be enclosed to represent entities that have definite volumes. Open structures are considered fragments without thickness and volume, and they are, in other words, unprintable, as the picture shown below:
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/open-structures.jpg)
+
+You need to make sure your model doesn't have open structures before slicing them. Otherwise, you might get an unexpected result.
+
+Now, let's walk through these two common issues.
+
+## Inverted Normal Fragments
+
+This is almost the most commonly seen issue in 3D models, but what is inverted normal exactly? Well, 3D models are composed of fragments, each of which has two faces. There is always a line perpendicular to the fragment, called "normal line". Depending on how the fragment was rendered, the normal line has its direction. The face oriented to the positive direction is considered outside, while the face oriented to the negative direction is considered inside. If a model is an enclosed structure, you will only be able to see outside faces. CHITUBOX will render inside faces as mazarine blue, while in Blender if Face Orientation is enabled (we will cover this later), it will be displayed in red, as the picture is shown below.
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/inverted-normal-fragments-inside-the-cube.jpg)
+
+If you try to slice the file, you might get something like this:
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/slice-result-01.png)
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/slice-result-02.png)
+
+The model is hollowed inside, but the sliced result isn't.
+
+This is very a simple model therefore it can be fixed automatically in CHITUBOX or some other 3D software like Microsoft 3D Builder.
+
+But as mentioned previously, in the production environment, models could be way more complicated. That's why we need manual fix.
+
+There are two modes you will use in Blender, **Object mode** and **Edit mode**, switched by the Tab key. The current mode is displayed in the upper-left corner:
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/edit-mode.png)
+
+Make sure you're in the Object mode, then click Overlays > Face Orientation, which makes it easier to observe the normal line orientation.
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/face-orientation-option.png)
+
+Now hit Tab to get into the Edit mode, then select those faces that have been inverted (displayed in red). Click Mesh > Normals > Flip, and when the selected faces now should be displayed in mazarine blue color, you're done with it.
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/flip-selected-faces.jpg)
+
+Once you're satisfied with your model, export it as an STL file and load it back to CHITUBOX.
+
+## Open Structures
+
+Open structures have usually been a bit complicated compared to inverted normals. But don't be intimidated, the principle is still simple: find the missing fragments, and fill them. Open structure literally means your model is not an enclosed structure, but how could you tell if a model is opened or not? Well, if a point inside the model can travel to the outside of the model without penetrating any fragment, the model is opened. As the picture illustrated, the semi-sphere on the left is an open structure, while the semi-sphere on the right is an enclosed structure since it has thickness and volume:
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/openenclosed-structure-semi-sphere.png)
+
+Different shapes could require different ways to fix, the simplest way to fix an open structure is to select all edges of the open structure and fill it. Hit Tab to switch to the Edit Mode. As you can see there are 3 selection modes in the upper-left corner: **Vertex select**, **Edge select**, **Face select**.
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/3-selection-modes.png)
+
+Click **Edge select** then select edges around the open structure. If the edges are continuous, you can hold Alt and click one of these edges to select them all. Once you select all edges as a closed path, hit the F key to fill it.
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/use-edge-select-mode-to-fix-the-model.jpg)
+
+Easy, right? Unfortunately, the real world is always tougher.
+
+When building a 3D scene for visual purposes, some modelers may try to represent the scene using open structures, which could save them some time as long as it doesn't affect the visual result. But it won't work in 3D printing. The semi-sphere shown above is a good example. In this case, you can't expect to fix the issue by simply hit the F key if you don't want to get a solid semi-sphere. Luckily, Blender provides a "Solidify" modifier, which could apply a thickness to fragments. For 3D printing, you need to consider if shells are thick and robust enough to support the whole model.
+
+Switch to Object mode, click the wrench icon, then the Solidify modifier, and adjust the thickness until it meets your requirement.
+
+Click the drop-down menu, then hit Apply. Now, the fragment has a thickness.
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/solidify-the-semi-sphere.jpg)
+
+Some open structures are not easy to find at first glance until you slice the model and find some hollowed structures are filled in the sliced preview. If you check the model in Blender carefully, you might find some weird stripe patterns on the surface. Some of them might look like this:
+
+![](../../../../public/images/docs/en-US/academy/how-to-do-basic-fixes-to-your-models-using-blender/stripe-patterns.png)
+
+Which reminds you that your model may need a fix.
+
+In most cases, your model could be composed of multiple parts and be very complicated. It could be knotty when you dealing with a certain part. You can use Shift + H to hide all objects except models that are currently selected, and Alt + H to bring them back after you're done with the part.
+
+Sometimes you might want a better view of your models. You can always hold Z to switch between visual modes.
+
+These are pretty much what the article will cover. If you want to learn more about Blender, we recommend you to check out the YouTube channel Blender Guru.
+
+Hope this article is helpful.
