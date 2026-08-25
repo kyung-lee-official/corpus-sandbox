@@ -1,0 +1,144 @@
+# All You Need to Know about Failed Printing
+
+This article introduces the most common reasons for failed printing. For example, cured resin layer sticking on the FEP film instead of the build plate, model falling off during printing, only supports were printed, up-warped bottom layers, laminaria-like layers, etc. Hopefully it will help you solve most fail printing problems.
+
+For bottom-up resin printers, layers not sticking to the build plate (for the first layer) or the previous layer would be the nightmare you never wanna experience. These are common cases you will see:
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/upwarped-bottom-layers.png)
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/only-supports-were-printed-01.png)
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/sticking-on-the-fep.png)
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/laminaria-like-layers-or-bubbles-01.png)
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/laminaria-like-layers-or-bubbles-02.png)
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/misrun.png)
+
+There are a lot of reasons that can cause layers don't stick to the build plate or the previous layer, in balance they can be summarized into a few essential reasons:
+
+-   Partial or overall underexposure
+-   Resin debris/residues left in the resin vat or stick on the build plate
+-   The pulling force and the gravity act on the printed part is greater than the range it can take
+
+In this article, we will enumerate common reasons that can cause the issue so you can go through these potential reasons to locate the culprit.
+
+## Improperly Leveled or Zeroed
+
+It's very common to see failed printing caused by improper leveling and zeroing. If the build plate is not well-leveled, it won't be parallel to the printing screen, which leads to inequable gaps between the build plate and the printing screen in different areas, where the larger gap might result in underexposure, the resin will be inadequately polymerized, as the picture illustrated below:
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/improper-leveling-and-zeroing.png)
+
+Besides leveling issues, improper zeroing could also make the gap between the printing screen and the build plate larger than the layer height you set in the software when curing the first layer, which might also lead to underexposure.
+
+## Layer Height is too Thick
+
+Just like improper zeroing, too thick layer height cut down the strength of UV before it hits the build plate or the previous layer, leading to underexpose.
+
+## Too Large Sectional Area
+
+When the build plate lifts up from the FEP film, the peeling force applied on the print part is closely related to the current layer's sectional area. If the area shape is approximate to a circle, according to Stefan's law,
+
+	$$F = \frac{3\pi\eta R^4}{2h^3}\frac{dh}{dt}$$
+
+-   $η$: viscosity
+-   $R$: radius of two parallel circular disks
+-   $h$: distance between two parallel circular disks
+
+The relation between the sectional area and the peeling force could be considered the fourth power approximately. This means when the sectional area times $n$, the peeling force will times $n^4$, that's why we should adjust the orientation of models to avoid monolithic large sectional areas when placing the model on the build plate.
+
+## Hermetic Chambers Formed
+
+If a hermetic chamber structure is formed between the model and the FEP film, at the beginning of the lifting, the air pressure in the chamber will be lower than the external air pressure, thereby increasing the pulling force from the FEP act on the model. Punch holes that penetrate the chamber allow air to flow in, and reduce the air pressure difference between the inside and outside of the chamber.
+
+## Islands
+
+If you got islands in your model after slicing, and those islands, unfortunately, also play supporting and fixation roles for other parts of your model, where parts that require supporting end up failing to be printed. We can use the Island Detection feature provided by CHITUBOX to check whether islands exist in critical areas.
+
+## Too Fast Lifting Speed
+
+The effect that lifting speed makes on peeling force can also be approximated from Stefan's law, the faster the build plate is lifted, the lesser $dt$ , and larger the peeling force $F$ will be. $dt$ and $F$ are inversely proportional. If the build plate lifts too fast, the strong force could peel the current layer from the previous layer, or even peel the printed part off from the build plate.
+
+## FEP Film Severely Worn
+
+If the FEP film is severely worn, it will increase the pulling force on the model when the build plate is lifting, which may also cause the current cured layer to stick on the FEP film and cannot be peeled off normally.
+
+## Resin Vat or Build Plate not Clean
+
+To guarantee a reliable adhesion, you will need to keep the build plate clean, if you got residues in your resin vat, or on the build plate, it will impede the UV light hit on the build plate and therefore increase the risk of failed print. If there are obvious scratches on the build plate, you can polish it with #8000 grit abrasive papers. Alternatively, you can use a magnetic flex plate.
+
+## Improper Support Parameters
+
+Proper support parameters help guarantee sufficient peeling force from the build plate against the pulling force from the FEP film. We downloaded a pair of claws from Thingiverse to demonstrate effects made by different support parameters.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/claws.png)
+
+The most vital parameters that affect the peeling force that supports can bear are under the top parameter tab. The top is a critical section to connect the model and support. There are two parameters that play an important role: **Contact Depth** and **Upper Diameter**.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/the-top-of-the-support.png)
+
+The larger the **Contact Depth**, the deeper the support tip goes. Sufficient depth helps win the tug-of-war between the build plate and the FEP film.
+
+	When 📃Picture Grayscale is enabled, and the grayscale is less than 255, the exposure strength will be different for supports and the model, as the picture shown below.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/different-exposure-strength-on-supports-and-the-model.png)
+
+Larger **Upper Diameter** results in a larger contact area (if the **Contact Shape** is None), also a better firmness of the connection between supports and the model.
+
+The claws for testing are not considered very large (26.63 × 60.46 × 47.21mm), so we tried the "Light" support type at the beginning. The default **Contact Depth** and **Upper Diameter** are both 0.3mm.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/add-light-supports-to-claws.png)
+
+Apparently, we underestimated the peeling force, only supports were produced.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/only-supports-were-printe-02.png)
+
+We thereby changed the support type from "Light" to "Medium", with default **Contact Depth** and **Upper Diameter** of 0.4mm.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/add-medium-supports-to-claws.png)
+
+As expected, we made it. By switching to the "Medium" support type, the diameter of the middle section also increases 0.4mm.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/claws-were-printed.png)
+
+Insufficient support density or inadequate support structures could also cause failed printing, Especially for the overhangings and boundaries, if there is no support or the support does not play its due role, the corresponding position of the layer will fail to print due to the lack of support. Even if the subsequent layers are connected, this part will be misshapen. The misrun issue we mentioned at the beginning of this article is a typical example.
+
+![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/insufficient-support-density.jpg)
+
+## Too Low Temperature
+
+The temperature will affect the viscosity of the resin, low temperature increases viscosity, thereby slowing down the process of polymerization. It's recommended to keep the temperature around 27 °C (80.6 °F), or at least higher than 21°C (69.8 °F).
+
+## Underexposure
+
+When you're dealing with problems like the model not sticking to the build plate, you're essentially tackling the problem that UV light emits to the build plate is insufficient caused by various reasons. Generally, the exposure time for bottom layers should be 5 ~ 10 times of normal layers, you also need to note that overexposure could cause your model to lose details. Proper exposure time is related to light source strength, resin photosensitive, and some other factors, that's why exposure testing for different times is necessary for finding the most appropriate exposure time.
+
+## Hardware Issues
+
+If the screen or light source is aged, or malfunctions, for example, the light source doesn't emit UV light in the rated strength, or the screen block too much light where it shouldn't. To check whether it is a hardware issue, a UV light meter would be helpful.
+
+	Make sure to protect your eyes with anti-UV goggles before checking the
+	screen when the UV source is on.
+
+Firstly, take the resin vat off from your printer, enable the exposure testing feature of your printer, which exposes a preset pattern or the full screen. There are two things you might wanna check:
+
+-   Whether there are visible dead pixels on the screen. Here is a picture of a screen with dead pixels,
+
+    ![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/a-screen-with-dead-pixels.png)
+
+    Which can lead to curing small debris on the FEP film.
+
+    	![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/a-fep-film-with-cured-small-debris.jpg)
+
+    Or produces holes on the model.
+
+    ![](../../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/holes-on-the-model.png)
+
+    The LCD panel has a certain service life. If the temperature is too high in the printing process and the internal heat dissipation is not good, the panel will be damaged. In general, this damage is reversible, and after standing cooling, most areas of the panel have returned to normal, as shown below. However, in the continuous heating work, it is still possible to damage the panel due to high temperature until it is irreversible.
+
+    Therefore, in the use of the panel, to pay more attention to the heat dissipation problem, regularly check whether the panel is normal, and timely replace it if it’s damaged.
+
+-   UV strength homogeneousness on the screen. Traverse the screen with the light meter probe slowly, normally the average strength should be higher than 4500μW/cm². If the average strength is way less than this value, you might wanna consult the manufacturer for the rating light strength of the printer, and whether they should be replaced or not.
+
+These are common reasons why your model does not stick to the build plate. Make sure only change one variable at a time when troubleshooting the problem, otherwise, you might have no idea what is the culprit even if the problem is gone.

@@ -1,0 +1,25 @@
+# Hollowed Part Being Broken After A Period of Time
+
+For some hollowed parts, after putting for a period of time, it may be cracked or even broken. What is the cause of this?
+
+![](../../../../../public/images/docs/en-US/academy/hollowed-part-being-broken-after-a-period-of-time/a-broken-hollow-model.jpg)
+
+## Post-Curing
+
+Though the parts have reached their final form, you can easily detect that the surface of the part is still tacky and relatively soft. They are not fully reacted and cured out of the printer so post-curing completes any unfinished reactions. Material properties, such as modulus, strength and stability will be improved by UV post-curing. After post-curing, the surface of the part wil be harder and drier, which can be kept longer.
+
+## Inner Cleaning
+
+If the inner wall of the part is not cleaned properly, the liquid resin will be miscible and crack or even break the part after a long period of osmosis and erosion.
+
+![](../../../../../public/images/docs/en-US/academy/hollowed-part-being-broken-after-a-period-of-time/unclean-inner-wall-01.jpg)
+
+![](../../../../../public/images/docs/en-US/academy/hollowed-part-being-broken-after-a-period-of-time/unclean-inner-wall-02.jpg)
+
+## Internal Stress
+
+The so-called internal stress refers to the stress remaining in the object after the external load is removed. It is caused by uneven volume changes in the macroscopic or microscopic structure of the material. In the absence of external forces, due to improper processing and molding, temperature change, solvent action and other reasons, the material will produce internal stress, resulting in part cracking or even rupture.
+
+## Resin
+
+Photosensitive resin materials show different properties according to the formula or production method, and are suitable for different applications. In general, tough materials such as ABS-like resin usually have a good balance between strength (the amount of stress a material can withstand) and ductility (the elongation or percentage strain), can withstand higher stress or larger strain and are less prone to be fractured. If the resin toughness is poor, on the contrary, it will easily be fractured.

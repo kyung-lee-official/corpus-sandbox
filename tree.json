@@ -1,0 +1,545 @@
+{
+  "name": "docs.chitubox.com",
+  "children": [
+    {
+      "name": "src",
+      "children": [
+        {
+          "name": "app",
+          "children": [
+            {
+              "name": "en-US",
+              "children": [
+                {
+                  "name": "academy",
+                  "children": [
+                    {
+                      "name": "a-brief-overview-of-thermal-stress-in-resin-3d-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "a-detailed-analysis-of-the-factors-affecting-printing-accuracy",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "all-you-need-to-know-about-failed-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "bottom-curling-and-detachment",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "effects-of-contact-shape-on-model-surface-quality",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "effects-of-layer-height-on-sladlplcd-3d-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "hollowed-part-being-broken-after-a-period-of-time",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "how-airtight-chamber-affect-prints",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "how-angles-of-models-affect-surface-quality",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "how-to-do-basic-fixes-to-your-models-using-blender",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "how-to-level-the-build-plate-on-a-bottom-up-3d-printer",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "how-to-save-resin-in-sladlplcd-3d-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "how-to-strengthen-3d-printed-parts-in-sladlplcd",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "obtain-the-parameters-of-photosensitive-resin-in-sladlplcd-3d-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "overhang-and-island-detection-in-sla-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "settings-to-improve-your-sladlplcd-3d-print-quality",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "storage-and-curing-of-photopolymer-resin",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "stress-and-strain-properties-of-3d-printing-resin",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "the-factors-to-affect-the-print-speed-of-a-resin-3d-printer",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "tools-to-remove-support-structures-and-rinse-3d-object-in-resin-sladlplcd-3d-printing",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "verification-of-the-effect-of-light-source-intensity-on-printing-accuracy",
+                      "children": [
+                        {
+                          "name": "page.mdx"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "chitu-manager",
+                  "children": [
+                    {
+                      "name": "latest",
+                      "children": [
+                        {
+                          "name": "introduction",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "ui-and-features",
+                          "children": [
+                            {
+                              "name": "management",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "network-sending",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "operations",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "page.mdx"
+                            },
+                            {
+                              "name": "printer-list",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "chitubox",
+                  "children": [
+                    {
+                      "name": "latest",
+                      "children": [
+                        {
+                          "name": "chitu-action",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "chitu-hive",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "chituglyph",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "configure-print-settings",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "data-migration",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "dental",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "developer-reference",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "export",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "hide-and-exclude-models",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "installation",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "introduction",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "license-management",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "measurement",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "model-editing",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "multi-platform",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "orientation-and-layout",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "printer-management",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "quick-start",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "repair",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "resin-material-alliance",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "risk-detection",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "support-your-model",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "true-proportion-scene",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "chitubox-printing-test",
+                  "children": [
+                    {
+                      "name": "latest",
+                      "children": [
+                        {
+                          "name": "analysis",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            },
+                            {
+                              "name": "printing-preparation",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "result-assessment",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "overview-of-the-standard-model",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "test-preparation",
+                          "children": [
+                            {
+                              "name": "data-recording",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "model-printing-and-post-print-processing",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "page.mdx"
+                            },
+                            {
+                              "name": "printing-preparation-conditions",
+                              "children": [
+                                {
+                                  "name": "page.mdx"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "faq",
+                  "children": [
+                    {
+                      "name": "latest",
+                      "children": [
+                        {
+                          "name": "chitu-manager-faq",
+                          "children": [
+                            {
+                              "name": "page.mdx"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
