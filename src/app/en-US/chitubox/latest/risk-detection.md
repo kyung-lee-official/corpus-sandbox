@@ -4,7 +4,9 @@ CHITUBOX offers various risk detection features to help you identify potential i
 
 ## Overhang Detection
 
-Overhang Detection is a feature that identifies areas of the model that may require support structures due to overhangs. It helps you to visualize where supports are needed in case auto support generation is not sufficient. Detected Overhangs are listed in the Parameters Panel and allow you to navigate camera through them automatically.
+Overhang Detection is a feature that identifies areas of the model that may require support structures due to overhangs. It helps you to visualize where supports are needed in case auto support generation is not sufficient. Detected Overhangs are listed in the Parameters Panel and allow you to navigate camera through them automatically.  
+
+Overhang detection offers three levels of accuracy: low, medium, and high. The higher the accuracy level, the more precise the detection results, but the longer the detection time.
 
 ## Island Detection
 

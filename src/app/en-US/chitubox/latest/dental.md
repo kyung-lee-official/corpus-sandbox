@@ -12,9 +12,11 @@ Switch to Dental Mode here.  Dental Mode and General Mode do not interfere with 
 ![](../../../../../public/images/docs/en-US/chitubox/latest/dental/buju_us.png)
 In Dental Mode, users can customize the top toolbar through "Settings > Layout". In this interface, you can choose to show or hide commonly used tools and rearrange the order of tool buttons by dragging and dropping, optimizing the workflow according to personal usage habits.
 
-#### Multiple dental applications
+#### Select the Application
 ![](../../../../../public/images/docs/en-US/chitubox/latest/dental/yy_us.png)
-Select what you need from a variety of applications.
+You can select what you need from a variety of applications.
+
+Dental mode has different processing algorithms for different applications. These algorithms directly impact the model preparation results. Incorrect applications may cause preparation errors or omissions. So, always verify that the application matches the actual model type before processing.
 
 #### Dental ChituAction
 ![](../../../../../public/images/docs/en-US/chitubox/latest/dental/ca_us.png)

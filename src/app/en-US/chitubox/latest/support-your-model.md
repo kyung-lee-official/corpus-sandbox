@@ -128,6 +128,10 @@ Mirror Support checks your model's symmetry, any symmetrical plane found will be
 
 Raft is literally a flat surface that the model is printed on. It helps to improve adhesion and can make it easier to remove the model from the build plate.
 
+### Raft Type
+Raft Type is used to select the shape of the raft, including Skate, Cross grid, Hexagonal grid, Bottom Connected, and Protective case.
+Selecting None applies only the Model Lift Height, without generating a raft.
+
 ## Cross Bracing
 
 Cross Bracing is a feature that adds additional support structures between existing supports to improve stability and reduce the risk of print failures. It can be particularly useful for tall or complex models.

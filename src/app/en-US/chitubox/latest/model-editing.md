@@ -160,3 +160,11 @@ The Combine Models feature allows you to merge multiple models into a single mod
 ## Align
 
 The Align feature allows you to align separated parts. You can also freely combine different parts according to actual printing needs.
+
+## Fill Cavity
+
+The Fill Cavity feature allows you to select one or more cavities and fill them to create a solid model.
+
+## Part  
+
+The Part feature allows you to split a model into multiple independent parts.

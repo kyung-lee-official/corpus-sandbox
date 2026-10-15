@@ -5,4 +5,8 @@ for a wide range of 3D printers and resin brands. By partnering with leading res
 manufacturers, CHITUBOX ensures that users have access to optimized settings that
 enhance print quality and reliability.
 
-RMA can be access from both  web  or inside CHITUBOX.
+* **Keyword Search**: Supports quickly searching for materials or brands by keyword.
+
+* **Multi-Dimensional Filtering**: Allows filtering by Resin Type, Sector/Field, Applicable Printer, Technology Type, and Resin Brand.
+
+ Click a resin profile and select **Apply** to use its settings, or select **Collect** for quick access later.
