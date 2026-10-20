@@ -12,15 +12,15 @@ By changing the contact shape between the support and the model surface, we can 
 
 ## Effect of Contact Shape on Support Strength
 
-			![](../../../../public/images/docs/en-US/academy/effects-of-contact-shape-on-model-surface-quality/support-params.png)
+![](../../../../public/images/docs/en-US/academy/effects-of-contact-shape-on-model-surface-quality/support-params.png)
 
 				Support Parameters
 
-			![](../../../../public/images/docs/en-US/academy/effects-of-contact-shape-on-model-surface-quality/with-contact-shape.png)
+![](../../../../public/images/docs/en-US/academy/effects-of-contact-shape-on-model-surface-quality/with-contact-shape.png)
 
 				With Contact Shape
 
-			![](../../../../public/images/docs/en-US/academy/effects-of-contact-shape-on-model-surface-quality/without-contact-shape.png)
+![](../../../../public/images/docs/en-US/academy/effects-of-contact-shape-on-model-surface-quality/without-contact-shape.png)
 
 				Without Contact Shape
 

@@ -14,17 +14,21 @@ Maybe plate leveling is a somewhat cockamamie process because you pretty much ha
 
 -   Place a piece of printer paper on the LCD screen
 -   Press the Z height reset button on the screen to lower the build plate until it goes for home position at the correct height
-    ![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/manual-button-on-the-printer.png)
 
-   ![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/z-height.png)
+![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/manual-button-on-the-printer.png)
+
+![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/z-height.png)
 
 -   Hold the build plate and loosen the leveling screws
-    ![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/hold-the-build-plate-and-loosen-the-leveling-screws.jpg)
+
+![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/hold-the-build-plate-and-loosen-the-leveling-screws.jpg)
 
 -   Check whether the build plate is flat (you can press the build plate to touch the screen)
 -   Tighten the leveling screws
 -   Reduce the lowering distance unit (0.1mm/1mm), and continue to lower the build platform until you feel resistance from the entire plane, not just a corner, when you try to move the paper.
-    ![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/moving-the-paper.jpg)
+
+![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/moving-the-paper.jpg)
 
 -   Back to the home screen and click "Set Z=0"
-    ![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/set-z0-button.png)
+
+![](../../../../public/images/docs/en-US/academy/how-to-level-the-build-plate-on-a-bottom-up-3d-printer/set-z0-button.png)

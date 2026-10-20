@@ -31,9 +31,9 @@ To avoid failed prints, you will need to take care of your models' structures an
 
 The amount of auto-added supports and rafts can be distinct if you place your model at different orientations. Find an angle where fewer supports and rafts will generate (make sure the strength of supports is guaranteed first). Pick out redundant supports and delete them manually. Vertical orientation always requires fewer supports.
 
-				![](../../../../public/images/docs/en-US/academy/how-to-save-resin-in-sladlplcd-3d-printing/more-auto-supports.png)
+![](../../../../public/images/docs/en-US/academy/how-to-save-resin-in-sladlplcd-3d-printing/more-auto-supports.png)
 
-				![](../../../../public/images/docs/en-US/academy/how-to-save-resin-in-sladlplcd-3d-printing/less-auto-supports.png)
+![](../../../../public/images/docs/en-US/academy/how-to-save-resin-in-sladlplcd-3d-printing/less-auto-supports.png)
 
 Under the premise of structural stability, fewer supports bring you smoother print surfaces and reduce post-processing workload.
 

@@ -125,15 +125,15 @@ Firstly, take the resin vat off from your printer, enable the exposure testing f
 
 -   Whether there are visible dead pixels on the screen. Here is a picture of a screen with dead pixels,
 
-    ![](../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/a-screen-with-dead-pixels.png)
+![](../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/a-screen-with-dead-pixels.png)
 
     Which can lead to curing small debris on the FEP film.
 
-    	![](../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/a-fep-film-with-cured-small-debris.jpg)
+![](../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/a-fep-film-with-cured-small-debris.jpg)
 
     Or produces holes on the model.
 
-    ![](../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/holes-on-the-model.png)
+![](../../../../public/images/docs/en-US/academy/all-you-need-to-know-about-failed-printing/holes-on-the-model.png)
 
     The LCD panel has a certain service life. If the temperature is too high in the printing process and the internal heat dissipation is not good, the panel will be damaged. In general, this damage is reversible, and after standing cooling, most areas of the panel have returned to normal, as shown below. However, in the continuous heating work, it is still possible to damage the panel due to high temperature until it is irreversible.
 

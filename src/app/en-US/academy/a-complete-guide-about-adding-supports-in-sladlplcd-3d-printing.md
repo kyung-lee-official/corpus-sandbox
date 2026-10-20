@@ -42,11 +42,11 @@ Then the overhangs begin to extend to both sides, and the whole layer separate i
 
 As for the “mouse” part, all the suspendings under CHITUBOX slicing preview need to be shored up with support structures.
 
-		![](../../../../public/images/docs/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/suspendings01.jpg)
+![](../../../../public/images/docs/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/suspendings01.jpg)
 
-		![](../../../../public/images/docs/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/suspendings02.jpg)
+![](../../../../public/images/docs/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/suspendings02.jpg)
 
-		![](../../../../public/images/docs/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/suspendings03.jpg)
+![](../../../../public/images/docs/en-US/academy/a-complete-guide-about-adding-supports-in-sladlplcd-3d-printing/suspendings03.jpg)
 
 ### Weaker Structures
 

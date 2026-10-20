@@ -1,0 +1,494 @@
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_007.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_008.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_009.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_010.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_011.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_012.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_007.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_008.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_009.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_010.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_011.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_012.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_007.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_008.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_009.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_010.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_011.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_012.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_007.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_008.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_009.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_010.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_011.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_012.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_003.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_004.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_005.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_006.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_001.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_002.png":
+  policy: vision-captioning
+
+"public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_003.png":
+  policy: vision-captioning

@@ -60,11 +60,11 @@ Adding support is the most frequently used approach. Whether support is needed d
 
 In CHTUBOX, we provide three default support settings: light, middle and heavy. Light supports are relatively thinner easy to remove. Middle supports are suitable for most islands and common overhangs. Heavy ones are set for load-bearing areas and large models, providing stronger support.
 
-        ![](../../../../public/images/docs/en-US/academy/overhang-and-island-detection-in-sla-printing/support-light-example.png)
+![](../../../../public/images/docs/en-US/academy/overhang-and-island-detection-in-sla-printing/support-light-example.png)
 
-        ![](../../../../public/images/docs/en-US/academy/overhang-and-island-detection-in-sla-printing/support-middle-example.png)
+![](../../../../public/images/docs/en-US/academy/overhang-and-island-detection-in-sla-printing/support-middle-example.png)
 
-        ![](../../../../public/images/docs/en-US/academy/overhang-and-island-detection-in-sla-printing/support-heavy-example.png)
+![](../../../../public/images/docs/en-US/academy/overhang-and-island-detection-in-sla-printing/support-heavy-example.png)
 
 There are a lot more factors to be considered when adding support. If you want to learn more about this technique, just go to:
 

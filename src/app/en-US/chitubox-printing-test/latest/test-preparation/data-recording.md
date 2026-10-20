@@ -105,7 +105,7 @@
 
 				Average Value
 
-	![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/front-of-printer.svg)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/front-of-printer.svg)
 
 ## Printing Material Preparation Record Form
 

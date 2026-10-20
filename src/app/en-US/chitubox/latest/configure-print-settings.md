@@ -114,7 +114,7 @@ Some high-resolution printers can have extra delays when loading data and will l
 
 -   **Auto Generation**
 
-    ![](../../../../../public/images/docs/en-US/chitubox/latest/configure-print-settings/print-time-compensation-settings.png)
+![](../../../../../public/images/docs/en-US/chitubox/latest/configure-print-settings/print-time-compensation-settings.png)
 
     $$\text{Layer Print Time Compensation} = \frac{\text{Actual Printing Time} - \text{Software Forcast Time}}{\text{Layer Count}}$$
 
@@ -134,7 +134,7 @@ _Mask File_: You can select an existing image by clicking the `...` icon, or cli
 
         The range of **Gray Parameter** is between `0` (black) to `255` (white)。
 
-		![](../../../../../public/images/docs/en-US/chitubox-pro/2.x.x/014-slice-settings-hub-and-spoke.png)
+![](../../../../../public/images/docs/en-US/chitubox-pro/2.x.x/014-slice-settings-hub-and-spoke.png)
 
         For example, if **Number of equal parts** is set to 5, **Equal radius** is set to 3mm, the radius of the ripple will be
 
@@ -147,11 +147,11 @@ _Mask File_: You can select an existing image by clicking the `...` icon, or cli
         **Matrix Mode** generates a matrix-like pattern. Rows and columns are set by `m` and `n` respectively.
         The range of **Gray Parameter** is from `0` (black) to `255` (white)。
 
-		![](../../../../../public/images/docs/en-US/chitubox-pro/2.x.x/014-slice-settings-matrix-mode.png)
+![](../../../../../public/images/docs/en-US/chitubox-pro/2.x.x/014-slice-settings-matrix-mode.png)
 
         Here is a 2 × 3 matrix with different grayscales.
 
-		![](../../../../../public/images/docs/zh-CN/chitubox-pro/1.x.x/004-setting-up-configure-printer-parameters004.2x3_matrix.png)
+![](../../../../../public/images/docs/zh-CN/chitubox-pro/1.x.x/004-setting-up-configure-printer-parameters004.2x3_matrix.png)
 
 -   **Gray scale unit**
 

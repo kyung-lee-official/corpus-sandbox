@@ -24,15 +24,15 @@ We know that for SLA (Stereolithography) printers, the smallest printing unit is
 
 Let's see what happens when the model is placed at 40°, 45°, and 50° respectively.
 
-			![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/place-model-at-40.png)
+![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/place-model-at-40.png)
 
 				θ = 40°
 
-			![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/place-model-at-45.png)
+![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/place-model-at-45.png)
 
 				θ = 45°
 
-			![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/place-model-at-50.png)
+![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/place-model-at-50.png)
 
 				θ = 50°
 
@@ -44,15 +44,15 @@ To verify this, we use a printer with a pixel width of 0.051mm and set the layer
 
 Let's take a look at the actual print results:
 
-			![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/print-result-01.jpg)
+![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/print-result-01.jpg)
 
 				θ = 40°
 
-			![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/print-result-02.jpg)
+![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/print-result-02.jpg)
 
 				θ = 45°
 
-			![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/print-result-03.jpg)
+![](../../../../public/images/docs/en-US/academy/how-angles-of-models-affect-surface-quality/print-result-03.jpg)
 
 				θ = 50°
 

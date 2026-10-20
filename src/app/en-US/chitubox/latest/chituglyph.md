@@ -13,6 +13,7 @@ If you do not have an image, you can enter a text prompt to instantly generate o
 ### Multi-View to 3D
 
 ![](../../../../../public/images/docs/en-US/chitubox/latest/chituglygh/muti_us.png)
+
 Supports PNG, JPG, JPEG, and WebP formats. Max size: 10MB. Minresolution:
 128x128.
 Background should be simple (preferably a

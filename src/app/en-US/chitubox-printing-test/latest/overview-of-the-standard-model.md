@@ -12,7 +12,7 @@
 
 CHITUBOX TMA V1 includes the following components:
 
-				![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/tma-v1_002.png)
+![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/tma-v1_002.png)
 
 			01. Main Base Plate
 
@@ -83,7 +83,7 @@ CHITUBOX TMA V1 includes the following components:
 
 ## CHITUBOX TMB V1
 
-![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/CHITUBOX Base_TMB_V1.png)
+![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/CHITUBOX-Base_TMB_V1.png)
 
 	Download CHITUBOX TMB V1
 
@@ -91,7 +91,7 @@ CHITUBOX TMA V1 includes the following components:
 
 The CHITUBOX TMB V1 model includes the following components:
 
-				![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/tma-v2_002.png)
+![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/tma-v2_002.png)
 
 			01. Main Base Plate
 
@@ -204,13 +204,13 @@ The CHITUBOX TMB V1 model includes the following components:
 
 ## CHITUBOX TMC V1
 
-![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/CHITUBOX Seize_TMC_V1.png)
+![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/CHITUBOX-Seize_TMC_V1.png)
 
 	Download CHITUBOX TMC V1
 
 	Parameter information for the CHITUBOX TMC V1 model is detailed around the corresponding model.
 
-				![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/tma-v3_002.png)
+![](../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/test-preparation/tma-v3_002.png)
 
 			01. Main Base Plate
 

@@ -15,38 +15,38 @@
 			Overall Quality
 			Overall Quality
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-top_003.png)
 
 			Möbius Ring Evolution Model
 			Transition Layer Lamination
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_006.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_007.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_007.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_008.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_008.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_009.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_009.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_010.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_010.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_011.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_011.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_012.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-circle_012.png)
 
 				There are obvious disconnections between layers
 
@@ -56,29 +56,29 @@
 			Detail Characterization Model
 			Detail Printing Capability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_006.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_007.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_007.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_008.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_008.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_009.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_009.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_010.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_010.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_011.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_011.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_012.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-detail_012.png)
 
 				The details of the holes are complete and clear.
 				The hole is too large and the solid wall thickness is
@@ -90,17 +90,17 @@
 			Gradient Hole and Shaft
 			Gradient Hole Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-hole_006.png)
 
 				φ2, φ2.5 holes can be completely printed including the
 				bottom part.
@@ -119,17 +119,17 @@
 
 			Gradient Shaft Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-axis_006.png)
 
 				Smallest fully printed shaft: φ1
 
@@ -141,17 +141,17 @@
 			Gradient Boss
 			Gradient Boss Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-bulge_006.png)
 
 				Smallest fully printed boss: 0.2mm.
 
@@ -166,11 +166,11 @@
 			Gradient Groove
 			Gradient Groove Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-groove_003.png)
 
 				Smallest fully printed groove: 0.2mm.
 
@@ -188,11 +188,11 @@
 
 				Large Cross-section Interlayer Transition Capability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_003.png)
 
 			Layer lines visible.
 			Layer lines visible.
@@ -200,11 +200,11 @@
 
 			0.4mm Cross-section Cut Hole Printing Capacity
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tma-v1-logo_006.png)
 
 				Successfully printed (section size greater than 0.4mm)
 
@@ -228,38 +228,38 @@
 			Overall Quality
 			Top view photo
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-top_003.png)
 
 			MMöbius Ring Evolution Model
 			Transition lamination
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_006.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_007.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_007.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_008.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_008.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_009.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_009.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_010.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_010.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_011.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_011.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_012.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-circle_012.png)
 
 				There are obvious layer disconnections.
 
@@ -269,29 +269,29 @@
 			Detail Characterization Model
 			Detail Printing Capability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_006.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_007.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_007.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_008.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_008.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_009.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_009.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_010.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_010.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_011.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_011.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_012.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-detail_012.png)
 
 				The details of the holes are complete and clear.
 				The hole is too large, the solid wall thickness is too
@@ -303,17 +303,17 @@
 			Gradient Hole and Shaft
 			Gradient Hole Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-hole_006.png)
 
 				φ2, φ2.5 holes can be completely printed including the
 				bottom part.
@@ -334,17 +334,17 @@
 
 			Gradient Shaft Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-axis_006.png)
 
 				Smallest fully printed boss: 0.2mm.
 
@@ -359,17 +359,17 @@
 			Gradient Boss
 			Gradient Boss Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-bulge_006.png)
 
 				Smallest fully printed boss: 0.2mm.
 
@@ -384,11 +384,11 @@
 			Gradient Groove
 			Gradient Groove Printing Ability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-groove_003.png)
 
 				Smallest fully printed groove: 0.2mm. Local bonding occurs at small areas of the 0.1mm groove.
 
@@ -399,17 +399,17 @@
 			Inclined Dual Wings
 			Inclination Angles
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_003.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-wing_006.png)
 
 				The dual wing structure is soft, showing deformation and wall fracture.
 
@@ -435,11 +435,11 @@
 			Spherical Cockpit
 			Transition Layer Lamination
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-ball_003.png)
 
 				Circular transition layer lamincation visible on top of the ball (no image blurring)
 
@@ -455,11 +455,11 @@
 			Gradient Supports
 			Heavy Supports
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-coarse_003.png)
 
 			Max printable radius: 4 mm.
 			Max printable radius: 4 mm.
@@ -467,11 +467,11 @@
 
 			Middle Supports
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-medium_003.png)
 
 				Max printable diameter: 4 mm. (under exposure on the 4 mm area is due to the different exposure settings between supports and the model)
 
@@ -480,11 +480,11 @@
 
 			Light Supports
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmb-v1-fine_003.png)
 
 				Max printable diameter: 3 mm. (under exposure on the 3 mm area is due to the different exposure settings between supports and the model)
 
@@ -513,28 +513,28 @@
 			Overall Quality
 			Oblique View Photo
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-left_003.png)
 
 			Top View Photo
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-top_003.png)
 
 			Uniform lattice
 			Integrity
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-square_003.png)
 
 			Fully Printable
 			Fully Printable
@@ -556,11 +556,11 @@
 			Gradient Supports
 			Heavy Supports
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-coarse_003.png)
 
 				Max printable radius: 5 mm. (under exposure on the 5 mm area is due to the different exposure settings between supports and the model)
 
@@ -569,11 +569,11 @@
 
 			Middle Supports
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-medium_003.png)
 
 			Max printable radius: 3 mm.
 			Max printable radius: 2 mm.
@@ -581,11 +581,11 @@
 
 			Light Supports
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-fine_003.png)
 
 			Not printable.
 			Not printable.
@@ -599,11 +599,11 @@
 			Gradient Hole and Shaft Fit
 			Fit Accuracy
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_003.png)
 
 				+0.05mm (loose)
 
@@ -638,11 +638,11 @@
 			Gradient Wall Thickness
 			Thin Wall Formability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-thick_003.png)
 
 				Smallest fully printable wall thickness: 0.3 mm.
 				0.2mm wall was printed but shows significant deformation.
@@ -655,20 +655,20 @@
 			Gradient Plane Inclination
 			Transition Layer Lamination
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-pattern_003.png)
 
 			Gradient Hole and Shaft
 			Forming Accuracy
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-hole_006.png)
 
 				Shaft size record:
 
@@ -737,11 +737,11 @@
 			Gradient Inclined Cylinder
 			Bottom Drift
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_003.png)
 
 				Bottom drift on 30° Cylinder.
 
@@ -757,11 +757,11 @@
 
 			Layer Transition Effect
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_004.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_005.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-cylindrical_006.png)
 
 			No obvious transition lamination
 			No obvious transition lamination
@@ -772,27 +772,27 @@
 
 				Level
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_001.png)
 
 				Level
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_002.png)
 
 				Level
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_003.png)
 
 				Vertical
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_004.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_004.png)
 
 				Vertical
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_005.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_005.png)
 
 				Vertical
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_006.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-groove_006.png)
 
 				Smallest fully printed groove: 0.2mm;
 
@@ -813,11 +813,11 @@
 			Gradient Ladders
 			Cross-Wall Structure Formability
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_001.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_001.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_002.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_002.png)
 
-					![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_003.png)
+![](../../../../../../public/images/docs/en-US/chitubox-printing-test/1.x.x/analysis/tmc-v1-step_003.png)
 
 				1mm-4mm cross-wall structure fully printable.
 
