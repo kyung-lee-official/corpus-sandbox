@@ -1,8 +1,14 @@
 "public/images/docs/en-US/chitubox/1.x.x/model-editing-000.png":
-  policy: vision-captioning
+  policy: manual
+  description: |
+    3 intersecting cubes in Blender
 
 "public/images/docs/en-US/chitubox/1.x.x/model-editing-001.png":
-  policy: vision-captioning
+  policy: manual
+  description: |
+    The three separate cubes resulting from the split operation.
 
 "public/images/docs/en-US/chitubox/latest/model-editing/cut-not-allowed.png":
-  policy: vision-captioning
+  policy: manual
+  description: |
+    The model in the image shows a red cut surface.

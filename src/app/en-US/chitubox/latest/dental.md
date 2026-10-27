@@ -26,13 +26,19 @@ Dental mode has different processing algorithms for different applications. Thes
 #### Dental ChituAction
 
 ![](../../../../../public/images/docs/en-US/chitubox/latest/dental/ca_us.png)
+
 ![](../../../../../public/images/docs/en-US/chitubox/latest/dental/xca_us.png)
 
 One-Click Automated Workflow:  
 The automated processing feature simplifies the complex workflow of slicing pre-processing.
 Users simply need to import their files and click "Auto-Process" to complete all necessary steps prior to model slicing. This innovative feature significantly reduces the learning curve, enabling newcomers to 3D printing to print with ease.
 
-### Multi-Platform Function
+### Function Introduction
+#### Link Models
+
+You can use the Link Models feature to arrange multiple dental models together and connect them with connecting rods.
+
+#### Multi-Platform Function
 
 ![](../../../../../public/images/docs/en-US/chitubox/latest/dental/duopingtai_us.png)
 

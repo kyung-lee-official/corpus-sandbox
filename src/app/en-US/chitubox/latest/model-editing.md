@@ -80,7 +80,7 @@ By clicking on apply, CHITUBOX will attempt to cut all **selected models**. At l
 
 * Type
 
-  Set the shape of the connecting key, including Pyramid Shaped or Connical Shaped.
+  Set the shape of the connecting key, including Quadrangular Frustum or Hexagonal Frustum.
 
 * H 
 
@@ -88,7 +88,7 @@ By clicking on apply, CHITUBOX will attempt to cut all **selected models**. At l
 
 * D1 
 
-  Set the bottom width (Pyramid Shaped) or diameter (Connical Shaped) of the connectors.
+  Set the bottom width or diameter of the connectors.
 
 * Geometry Definition
 

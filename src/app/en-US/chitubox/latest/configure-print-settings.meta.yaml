@@ -2,10 +2,16 @@
   policy: vision-captioning
 
 "public/images/docs/en-US/chitubox-pro/2.x.x/014-slice-settings-hub-and-spoke.png":
-  policy: vision-captioning
+  policy: manual
+  description: |
+    This image shows the interface of a Hub-and-Spoke mask generator.
 
 "public/images/docs/en-US/chitubox-pro/2.x.x/014-slice-settings-matrix-mode.png":
-  policy: vision-captioning
+  policy: manual
+  description: |
+    This image shows the interface of a Matrix Mode mask generator.
 
 "public/images/docs/zh-CN/chitubox-pro/1.x.x/004-setting-up-configure-printer-parameters004.2x3_matrix.png":
-  policy: vision-captioning
+  policy: manual
+  description: |
+    This image shows a 2 × 3 matrix with different grayscales.

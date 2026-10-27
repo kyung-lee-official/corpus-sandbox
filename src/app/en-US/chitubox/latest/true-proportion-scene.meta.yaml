@@ -1,2 +1,4 @@
 "public/images/docs/en-US/chitubox/1.x.x/visual-control-000.jpg":
-  policy: vision-captioning
+  policy: manual
+  description: |
+    The True Proportion Scene displayed in CHITUBOX.

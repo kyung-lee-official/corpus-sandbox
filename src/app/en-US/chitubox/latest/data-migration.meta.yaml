@@ -2,4 +2,4 @@
   policy: vision-captioning
 
 "public/images/docs/en-US/chitubox/latest/data-migration/dmsoftware_us.png":
-  policy: vision-captioning
+  policy: ignore
