@@ -2,7 +2,7 @@
   policy: vision-captioning
 
 "public/images/docs/en-US/chitubox/1.x.x/orders-and-invoice.png":
-  policy: vision-captioning
+  policy: ignore
 
 "public/images/docs/en-US/chitubox/1.x.x/renewal-management.png":
   policy: vision-captioning
@@ -11,4 +11,4 @@
   policy: vision-captioning
 
 "public/images/docs/en-US/chitubox/1.x.x/device-management.png":
-  policy: vision-captioning
+  policy: ignore

@@ -18,9 +18,9 @@ Options explained:
 
 Drill holes in the model, typically used to allow resin to escape during printing.
 
-## Duplicate
+## Copy
 
-Duplicate allows you to create copies of the selected model, with designated number, spacing and layout.
+Copy allows you to create copies of the selected model, with designated number, spacing and layout.  In addition, you can use Z-axis copying with an adjustable protective frame to enable stacked printing.
 
 ## Mirror
 
@@ -149,9 +149,11 @@ adjust them.
 
 Boolean operations allow you to apply boolean logic to two models, such as union, difference, and intersection.
 
-## Text Label
+## Label
 
-The Text Label tool allows you to add text labels to your model, which can be useful for identification or annotation purposes.
+The Label tool allows you to add text or image labels to your model, which can be useful for identification or annotation purposes.
+- Image Label: You can control the presentation of image labels by adjusting the black level, white level, and Gamma values.
+- Flip: Both text labels and image labels support flipping, which is useful for stamp model making.
 
 ## Combine Models
 
